@@ -12,3 +12,6 @@ print("But did't like being " + charcter_age + ".")
 
 floot = 5.2 #Here this is an floot variable in python
 print(floot) 
+
+#This all i have learned from free codecamp youtube channel 
+#If you feel like making some changes feel free
